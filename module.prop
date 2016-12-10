@@ -4,6 +4,6 @@ version=v1.0.0
 versionCode=1
 author=jaimbo
 description=Pixel Launcher for Magisk
-support=http://https://github.com/jaimbo/PixelLauncher
+support=https://github.com/jaimbo/PixelLauncher
 donate=https://github.com/jaimbo/PixelLauncher
 cacheModule=false
